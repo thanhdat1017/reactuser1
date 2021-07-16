@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Pacific Rim",
+        "tel":"0909763733",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"Hoàng Thị Bích Tuyền",
+        "tel":"0906832403",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Hoàng Thị Bích Quy",
+        "tel":"0938211311",
+        "permission":3
+    },
+    {
+        "id":4,
+        "name":"Bùi Thị Mai",
+        "tel":"0909109036",
+        "permission":1
+    },
+    {
+        "id":5,
+        "name":"Võ Hồng Hà",
+        "tel":"0919261523",
+        "permission":1
+    },
+    {
+        "id":6,
+        "name":"Mai Thiên Quang",
+        "tel":"0909763733",
+        "permission":1
+    }
+]
